@@ -41,6 +41,7 @@ Ensure the error from Step 3 is gone:
 - `./vendor/bin/sail test` an alias of `php artisan test`
 - `./vendor/bin/sail tinker` an alias of `php artisan tinker`
 
+Optionally, in Linux you may create a Sail shortcut:  `ln -s ./vendor/bin/sail sail`.
 
 ## Futher reading
 
